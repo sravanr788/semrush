@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Noto+Sans:ital@1&family=Poppins:wght@300;400&family=Roboto&display=swap');
+*{
+    margin: 0px;
+}
+footer{
+    background-color: #111317;
+    height: 80vh;
+    margin-top: 10%;
+    font-family:Inter ,sans-serif ;
+
+}
+.top-div{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.buttondiv {
+    display: flex;
+    margin-top: 32px;
+}
+.contactbtn {
+    /* display: flex; */
+    width: 168px;
+    height: 43px;
+    background-color: #111317;
+    color: #898D98;
+    font-size: larger;
+    border-radius: 4px;
+    border: 1px solid #898D98;
+    margin: 14px 40px 16px 40px;
+}
+.btntxt{
+    margin-top: 25px;
+    color: #898D98;
+    font-size: 12px;
+}
+.buttontext{
+    font-weight:400;
+    font-size: large;
+}
+H6{
+    color: #898D98;
+    font-size: medium;
+}
+
+.iconmail{
+    width:20px;
+
+}
+
+.plans{
+    text-decoration:underline;
+}
+.greenbtn{
+    background-color: #009F81;
+    color: white;
+    width: 338px;
+    height: 41px;
+    border-radius: 6px;
+    font-size: larger;
+    margin: 14px 41px 16px 41px;
+    border: 1px solid #111317;
+    margin-top: 32px;
+}
+.Maindiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    line-height: 21px;
+}
+h5{
+    color: white;
+    padding: none;
+    margin: none;
+}
+a{
+    text-decoration: none;
+    color: #898D98;
+    display: block;
+    font-weight: 400;
+    font-size: 12px
+}
+a:hover{
+    color: white;
+}
+.footertext{
+    color: #898D98;
+   margin-top: 1.5%;
+}
+span {
+    /* display: flex; */
+    background-color: black;
+    display: flex;
+   
+}
+.Down{
+    display: flex;
+    background-color: black;
+    /* width: 100%;
+    height: 15%; */
+    padding-left: 200px;
+    width: 86.82%;
+    height: 80px;
+ 
+}
+.Semrush{
+    width: 170px;
+    height: 50px;
+    object-fit: contain;
+  margin-left: -80px;
+    margin-top: 10px;
+    
+}
+
+.footertext{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.plans{
+    line-height: 10px;
+    text-align: center;
+}
